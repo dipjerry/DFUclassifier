@@ -1,0 +1,32 @@
+metrics: accuracy. recall. precision. f1_score. specificty auc_score
+
+loss
+box_loss
+DFL loss
+cls_loss
+
+#kfold cross validation
+
+must: no of images are equal or not for each class
+
+#if required perform augmentation
+
+later: compare with other variants of yolo including the latest 
+
+
+now
+1. list out no of all classes in training
+2. seperate the images into train, val, test - from annotated dataset - train 4168(301000 to 305225), val 1191(from 305226 to 306432), test 596(remaining)
+3. redo the script.py for each folder
+4. simplify performance metrics
+
+later
+1. try out training yolov10, yolov6
+
+
+
+references citation format
+
+yolo model documentation reading
+
+
