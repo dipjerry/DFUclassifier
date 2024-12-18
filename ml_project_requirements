@@ -1,9 +1,9 @@
 metrics: accuracy. recall. precision. f1_score. specificty auc_score
 
 loss
-box_loss
-DFL loss
-cls_loss
+box_loss?
+DFL loss?
+cls_loss?
 
 #kfold cross validation
 
