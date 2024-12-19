@@ -2,7 +2,7 @@ path: /home/rohanb/Documents/mca/ML Mini Project/provided_datasets/DFUC2021_trai
 
 train: train/images
 val: val/images
-#test: test/images
+test: test/images
 
 nc: 4
 
