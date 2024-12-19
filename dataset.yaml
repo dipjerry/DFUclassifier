@@ -1,0 +1,14 @@
+path: /home/rohanb/Documents/mca/ML Mini Project/provided_datasets/DFUC2021_trainset_210427/ # root folder for training and validation dataset
+
+train: train/images
+val: val/images
+#test: test/images
+
+nc: 4
+
+# the labels according to YOLO
+names:
+  0: none
+  1: infection
+  2: ischaemia
+  3: both
